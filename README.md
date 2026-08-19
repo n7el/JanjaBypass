@@ -6,8 +6,8 @@ Script para contornar o bloqueio regional e restaurar as funções de vídeo e t
 
 ## ❔ Como Usar
 
-1. Baixe o script: [JanjaBypass.cmd](https://github.com/n7el/JanjaBypass/releases/latest/download/JanjaBypass.cmd)
-2. Execute o script `JanjaBypass.cmd` e aguarde o Discord reiniciar.
+1. Baixe o script: [Bypass.cmd](https://github.com/n7el/JanjaBypass/releases/latest/download/Bypass.cmd)
+2. Execute o script e aguarde o Discord reiniciar.
 3. Pronto, funções liberadas.
 
 ---
